@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YourBudget.API", "YourBudget.API\YourBudget.API.csproj", "{4896CF05-95F8-4C69-9A10-E5C6808FA625}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "YourBudget.UI", "YourBudget.UI\YourBudget.UI.njsproj", "{5448D68E-5FFA-4F4B-AABB-8AF537620847}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4896CF05-95F8-4C69-9A10-E5C6808FA625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4896CF05-95F8-4C69-9A10-E5C6808FA625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4896CF05-95F8-4C69-9A10-E5C6808FA625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4896CF05-95F8-4C69-9A10-E5C6808FA625}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5448D68E-5FFA-4F4B-AABB-8AF537620847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5448D68E-5FFA-4F4B-AABB-8AF537620847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5448D68E-5FFA-4F4B-AABB-8AF537620847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5448D68E-5FFA-4F4B-AABB-8AF537620847}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2648252-3460-4AF0-B994-03D45BFB7220}
+	EndGlobalSection
+EndGlobal
